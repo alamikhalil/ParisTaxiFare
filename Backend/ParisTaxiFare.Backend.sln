@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParisTaxiFare.PriceAPI", "ParisTaxiFare.PriceAPI\ParisTaxiFare.PriceAPI.csproj", "{FB0AD861-513B-4ABE-A900-89E49516D821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParisTaxiFare.RideAPI", "ParisTaxiFare.RideAPI\ParisTaxiFare.RideAPI.csproj", "{3AADEEA3-F752-47A0-A405-038FDB510EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB0AD861-513B-4ABE-A900-89E49516D821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0AD861-513B-4ABE-A900-89E49516D821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0AD861-513B-4ABE-A900-89E49516D821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0AD861-513B-4ABE-A900-89E49516D821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AADEEA3-F752-47A0-A405-038FDB510EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AADEEA3-F752-47A0-A405-038FDB510EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AADEEA3-F752-47A0-A405-038FDB510EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AADEEA3-F752-47A0-A405-038FDB510EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DCF4935-E980-4254-BC8A-2F93CE52C2F6}
+	EndGlobalSection
+EndGlobal

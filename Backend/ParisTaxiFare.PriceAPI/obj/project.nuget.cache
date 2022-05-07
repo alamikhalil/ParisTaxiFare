@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "m0ude8rnYq1+4/IxWJyu9IN8dqEEwKmznnf1oEebZ0vaEAah/ccF2AiGKsZwSIyhd4M8DNWYFdEybk2kN2KqqA==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\ParisTaxiFare\\Backend\\ParisTaxiFare.Backend\\ParisTaxiFare.PriceAPI\\ParisTaxiFare.PriceAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

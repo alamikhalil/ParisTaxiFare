@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OIWl8XnfD2pFQXG3Lq4lJLD6rnKqlTmtwM3AfDGNoNY=",
+  "Source": "ParisTaxiFare.RideAPI",
+  "BasePath": "_content/ParisTaxiFare.RideAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

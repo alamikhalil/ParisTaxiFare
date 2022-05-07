@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PvuImTkOqpid7YhdW8l+1D6I8I5WoSwT67ArMCuwU/U=",
+  "Source": "ParisTaxiFare.PriceAPI",
+  "BasePath": "_content/ParisTaxiFare.PriceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
